@@ -22,7 +22,7 @@ This repository contains **two files**:
 
 1. **Raw Data (Before Cleaning)**  
    - This file contains the original dataset as collected, before any modifications.  
-   - Filename: `student_performance_clean.csv`
+   - Filename: `student_performance_raw.csv`
 
 2. **Cleaned Data (After Cleaning)**  
    - This file contains the dataset after all cleaning steps, including:  
