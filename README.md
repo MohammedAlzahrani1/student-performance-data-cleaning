@@ -22,14 +22,14 @@ This repository contains **two files**:
 
 1. **Raw Data (Before Cleaning)**  
    - This file contains the original dataset as collected, before any modifications.  
-   - Filename: `student_performance_raw.xlsx`
+   - Filename: `student_performance_clean.csv`
 
 2. **Cleaned Data (After Cleaning)**  
    - This file contains the dataset after all cleaning steps, including:  
      - Removing invalid ages  
      - Filling missing values in the "Reason" column  
      - Converting Medu and Fedu columns from text to numeric values  
-   - Filename: `student_performance_clean.xlsx`
+   - Filename: `student_performance_clean.csv`
 
 > Including both files clearly demonstrates the difference between raw and cleaned data and documents the cleaning process.
 
