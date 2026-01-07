@@ -70,8 +70,7 @@ This repository contains **two files**:
 ---
 
 ## Tools Used
-- **Microsoft Excel**  
-- Or any spreadsheet software supporting **Text to Columns, Filter, and Find & Replace**.
+- **Microsoft Excel** 
 
 ---
 
